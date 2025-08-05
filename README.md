@@ -90,7 +90,7 @@ The analysis reveals that cybersecurity threats have maintained consistently hig
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the cybersecurity leadership team to consider the following: 
+Based on the insights and findings above, I would recommend the cybersecurity leadership team to consider the following: 
 
 * Nation-state actors consistently cause the highest financial damage per incident, averaging significantly more than other threat sources. **Implement enhanced monitoring and threat intelligence capabilities specifically focused on advanced persistent threat (APT) detection and nation-state attack patterns.**
 
