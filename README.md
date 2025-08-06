@@ -1,3 +1,5 @@
+# Cybersecurity Threats Analysis (2015-2024)
+
 # Project Background
 This project analyzes global cybersecurity threat data from 2015-2024, examining patterns in cyberattacks across different countries, industries, and attack vectors. As a data analyst working in the cybersecurity intelligence division, I've investigated how cyber threats have evolved over this decade-long period, focusing on financial impacts, attack frequency, and defensive measures. The analysis covers key business metrics including total financial losses ($151.5 billion), number of affected users (1.51 billion), attack frequency trends, and incident resolution effectiveness across 3,000 documented cybersecurity incidents.
 
